@@ -1,0 +1,34 @@
+   [
+
+    {
+       "id":1,
+       "name":"IronCore",
+       "Address":"XYZ",
+       "Fees":5000
+
+    },
+      
+    {
+       "id":2,
+       "name":"IronCore1",
+       "Address":"XYZ1",
+       "Fees":5000
+
+    },
+     
+    {
+       "id":3,
+       "name":"IronCore2",
+       "Address":"XYZ2",
+       "Fees":5000
+
+    },
+      
+    {
+       "id":4,
+       "name":"IronCore3",
+       "Address":"XYZ3",
+       "Fees":5000
+
+    }
+]
